@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Sreeaswin 👋
 
-<!--
-**Aswin911/Aswin911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+- B.Tech CCE @ Amrita (7.61 CGPA, June 2027)
+- Intel IoT Club President
+- AWS Certified | MongoDB Certified
+- 496 repos, X contributions
 
-Here are some ideas to get you started:
+### Tech Stack
+**Languages:** Java, Python, JavaScript, C++
+**Cloud:** AWS (EC2, S3, Lambda, etc.)
+**Tools:** Git, Docker, Jupyter, VS Code
+**Focus:** IoT, embedded systems, DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current
+- Placement prep (6-domain test)
+- Parkinson's detection DL project
+- Business communication coursework
+
+### Links
+[Portfolio](https://aswin911.github.io/) | [LinkedIn](https://www.linkedin.com/in/sreeaswin-r-4a69722b6/) | [Email](aswinsree2005@gmail.com)
