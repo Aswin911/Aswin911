@@ -2,14 +2,16 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Sree Aswin R</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=Sreeaswin+R" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Developer • IoT Enthusiast • Cloud Explorer • Problem Solver</b>
 </p>
 
 <p align="center">
-  🎓 Final Year Computer & Communication Engineering Student at <b>Amrita Vishwa Vidyapeetham</b>
+  Final Year Student at <b>Amrita Vishwa Vidyapeetham</b>
 </p>
 
 ---
