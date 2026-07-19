@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Developer • IoT Enthusiast • Cloud Explorer • Problem Solver</b>
+  <b>AI Eengineer • Full stack Developer • Cloud Explorer • IoT & AioT Engineer</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
 
 ---
 
-## 👨‍💻 About Me
+<p style="text-align: left;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=About+me" alt="Typing SVG" />
 
 I'm a final-year Computer and Communication Engineering student passionate about building scalable software and intelligent systems. My interests span across **Backend Development, IoT, Cloud Computing, AI, and Distributed Systems**. I enjoy designing applications that solve real-world problems while continuously learning new technologies.
 
@@ -26,31 +27,32 @@ Outside academics, I actively organize technical workshops and hackathons as the
 
 ---
 
-## 🚀 Tech Stack
+<p style="text-align: left;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=100000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=Tech+stack" alt="Typing SVG" />
 
 <p align="center">
 
-### Languages
+##### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,java" />
 
-### Frontend
+##### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
 
-### Backend
+##### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Databases
+##### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 
-### Cloud & DevOps
+##### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" />
 
-### Tools
+##### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 
