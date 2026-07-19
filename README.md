@@ -1,28 +1,81 @@
-# Hey, I'm Sreeaswin 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
-### About
-- B.Tech CCE @ Amrita (7.61 CGPA, June 2027)
-- Intel IoT Club President
-- AWS Certified | MongoDB Certified
-- 496 repos, X contributions
+<h1 align="center">Hi 👋 I'm Sree Aswin R</h1>
 
-### Tech Stack
-**Languages:** Java, Python, JavaScript, C++
-**Cloud:** AWS (EC2, S3, Lambda, etc.)
-**Tools:** Git, Docker, Jupyter, VS Code
-**Focus:** IoT, embedded systems, DSA
+<p align="center">
+  <b>Developer • IoT Enthusiast • Cloud Explorer • Problem Solver</b>
+</p>
 
-### Current
-- Placement prep (6-domain test)
-- Parkinson's detection DL project
-- Business communication coursework
+<p align="center">
+  🎓 Final Year Computer & Communication Engineering Student at <b>Amrita Vishwa Vidyapeetham</b>
+</p>
 
-### Links
-[Portfolio](https://aswin911.github.io/) | [LinkedIn](https://www.linkedin.com/in/sreeaswin-r-4a69722b6/) | [Email](aswinsree2005@gmail.com)
+---
 
-###Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 👨‍💻 About Me
+
+I'm a final-year Computer and Communication Engineering student passionate about building scalable software and intelligent systems. My interests span across **Backend Development, IoT, Cloud Computing, AI, and Distributed Systems**. I enjoy designing applications that solve real-world problems while continuously learning new technologies.
+
+Currently, I'm focused on strengthening my expertise in **Node.js, Go, Cloud Platforms, System Design, DevOps, and AI-powered applications**, with the long-term goal of becoming an **IoT Solutions Architect**.
+
+Outside academics, I actively organize technical workshops and hackathons as the **President of the Intel IoT Club**, helping students explore emerging technologies and build impactful projects.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,java" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aswin911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin911&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin911&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Aswin911&color=0e75b6&style=flat)
+
+</p>
