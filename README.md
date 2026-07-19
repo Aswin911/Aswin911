@@ -56,15 +56,6 @@ Outside academics, I actively organize technical workshops and hackathons as the
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aswin911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin911&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -74,8 +65,8 @@ Outside academics, I actively organize technical workshops and hackathons as the
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Aswin911&color=0e75b6&style=flat)
 
-</p>
+</p> -->
